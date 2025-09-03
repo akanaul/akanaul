@@ -1,6 +1,12 @@
 ## Sobre Mim - WIP
 Sou estudante de ánalise e desenvolvimento de sistemas atualmente epxlorando o mercado e  interessado em aprender stacks relacionados a análise de dados de desenvolvimento full-stack, mas sempre minha curiosidade pode sempre me levar a explorar novos horizontes na área.
 
+<p>O Quê estou estudando atualmente?</p>
+<ul>
+  <li>Banco de dados realcionais e SQL</li>
+  <li>Utilizaçao de Python no ambiente de análise e ciência de dados</li>
+  <li>Fundamentos do desenvolvimento full-stack, focado em front-end por hora</li>
+</ul>
 ## Badges -  WIP
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/1cb8c47d-844d-4f6c-8874-d4415abd3304" title="Data Analysis Using Python"><img src="https://images.credly.com/size/80x80/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" alt="Data Analysis Using Python" width="80" height="80"></a>
