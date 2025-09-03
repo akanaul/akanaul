@@ -8,12 +8,13 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
     <li> Utilização de Python no ambiente de análise e ciência de dados</li>
     <li> Fundamentos do desenvolvimento front-end</li>
     <li> Design profissional</li>
-    <br>
 </details> 
+
+<br>
 
 ---
 
-#### Minhas Badges recentes:
+### Minhas Badges recentes:
 <br>
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/1cb8c47d-844d-4f6c-8874-d4415abd3304" title="Data Analysis Using Python"><img src="https://images.credly.com/size/80x80/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" alt="Data Analysis Using Python" width="80" height="80"></a>
@@ -30,14 +31,14 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 
 ---
 
-## Estatisticas do github:
+### Estatísticas do github:
 
 <a href= "https://github.com/akanaul">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github">
+  <img height= 200 align=left src="https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github">
 <a/>
 
 <a href= "https://github.com/akanaul">
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact">
+  <img height= 200 align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact">
 <a/>
 
 
