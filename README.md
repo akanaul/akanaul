@@ -1,12 +1,17 @@
 ## Bem-vindo(a) ao meu github vai um café :coffee:? ou prefere chá :tea:? 
-Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o mercado e  interessado em aprender stacks relacionados a análise de dados de desenvolvimento full-stack, mas sempre minha curiosidade pode me levar a explorar novos horizontes na área.
 
-### O Quê estou estudando atualmente?
-<ul>
-  <li>Bancos de dados relacionais e SQL</li>
-  <li>Utilização de Python no ambiente de análise e ciência de dados</li>
-  <li>Fundamentos do desenvolvimento full-stack (focado em front-end por hora)</li>
-</ul>
+Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o mercado e  interessado em aprender stacks relacionadas a análise de dados de desenvolvimento front-end, mas sempre minha curiosidade pode me levar a explorar novos horizontes na área.
+***
+<details open>
+  <summary><h3>O quê estou estudando atualmente?</h3></summary>
+    <li> Bancos de dados relacionais e SQL</li>
+    <li> Utilização de Python no ambiente de análise e ciência de dados</li>
+    <li> Fundamentos do desenvolvimento front-end</li>
+    <li> Design profissional</li>
+    <br>
+</details> 
+
+---
 
 #### Minhas Badges recentes:
 <br>
@@ -22,6 +27,8 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 <a href="https://www.credly.com/badges/a0762cf2-61b4-4941-b126-43ad0761f705" title="Python for Data Science"><img src="https://images.credly.com/size/80x80/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt="Python for Data Science" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/03b28eae-d651-4a66-987c-a3d1126f3843" title="Hadoop Foundations - Level 1"><img src="https://images.credly.com/size/80x80/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" alt="Hadoop Foundations - Level 1" width="80" height="80"></a>
 <!--END_SECTION:badges-->
+
+---
 
 ## Estatisticas do github:
 
