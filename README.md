@@ -25,6 +25,12 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 
 ## Estatisticas do github:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact)
+<a href= "https://github.com/anuraghazra/github-readme-stats">
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github">
+<a/>
+
+<a href= "https://github.com/anuraghazra/convoychat">
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact">
+<a/>
+
 
