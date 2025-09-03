@@ -1,3 +1,5 @@
+## Sobre Mim - WIP
+Sou estudante de ánalise e desenvolvimento de sistemas atualmente epxlorando o mercado e  interessado em aprender stacks relacionados a análise de dados de desenvolvimento full-stack, mas sempre minha curiosidade pode sempre me levar a explorar novos horizontes na área.
 
 ## Badges -  WIP
 <!--START_SECTION:badges-->
