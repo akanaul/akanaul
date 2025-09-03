@@ -1,3 +1,5 @@
+
+## Badges -  WIP
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/1cb8c47d-844d-4f6c-8874-d4415abd3304" title="Data Analysis Using Python"><img src="https://images.credly.com/size/80x80/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" alt="Data Analysis Using Python" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1e33ed28-6edc-466c-9bfe-772cbdb7e13d" title="Data Visualization Using Python"><img src="https://images.credly.com/size/80x80/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" alt="Data Visualization Using Python" width="80" height="80"></a>
@@ -10,4 +12,3 @@
 <a href="https://www.credly.com/badges/a0762cf2-61b4-4941-b126-43ad0761f705" title="Python for Data Science"><img src="https://images.credly.com/size/80x80/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt="Python for Data Science" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/03b28eae-d651-4a66-987c-a3d1126f3843" title="Hadoop Foundations - Level 1"><img src="https://images.credly.com/size/80x80/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" alt="Hadoop Foundations - Level 1" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-## WIP
