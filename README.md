@@ -34,11 +34,11 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 ### Estatísticas do github:
 
 <a href= "https://github.com/akanaul">
-  <img height= 200 align=left src="https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github">
+  <img height= 200 align=center src="https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github">
 <a/>
 
 <a href= "https://github.com/akanaul">
-  <img height= 200 align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact">
+  <img height= 200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact">
 <a/>
 
 
