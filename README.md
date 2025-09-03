@@ -11,7 +11,7 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 </details>
 
 <details open>
-  <summary> Minhas Hard Skills: </summary>
+  <summary><h3>Minhas Hard Skills:</h3></summary>
 
 ### Linguagens  
 <div align="center">  
@@ -32,8 +32,6 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 </div>
 </details>  
 
-<br/>  
-<br/> 
 <br>
 
 ---
