@@ -10,7 +10,7 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
     <li> Design profissional</li>
 </details>
 
-<details>
+<details open>
   <summary> Minhas Hard Skills: </summary>
 
 ### Linguagens  
