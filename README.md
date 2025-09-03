@@ -25,11 +25,11 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 
 ## Estatisticas do github:
 
-<a href= "https://github.com/anuraghazra/github-readme-stats">
+<a href= "https://github.com/akanaul">
   <img align=left src="https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github">
 <a/>
 
-<a href= "https://github.com/anuraghazra/convoychat">
+<a href= "https://github.com/akanaul">
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact">
 <a/>
 
