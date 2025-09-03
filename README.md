@@ -1,10 +1,10 @@
-## Sobre Mim - WIP
-Sou estudante de ánalise e desenvolvimento de sistemas atualmente explorando o mercado e  interessado em aprender stacks relacionados a análise de dados de desenvolvimento full-stack, mas sempre minha curiosidade pode sempre me levar a explorar novos horizontes na área.
+## Bem-vindo(a) ao meu github vai um café :coffee:? ou prefere chá :tea:? 
+Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o mercado e  interessado em aprender stacks relacionados a análise de dados de desenvolvimento full-stack, mas sempre minha curiosidade pode me levar a explorar novos horizontes na área.
 
 ### O Quê estou estudando atualmente?
 <ul>
   <li>Bancos de dados relacionais e SQL</li>
-  <li>Utilizaçao de Python no ambiente de análise e ciência de dados</li>
+  <li>Utilização de Python no ambiente de análise e ciência de dados</li>
   <li>Fundamentos do desenvolvimento full-stack (focado em front-end por hora)</li>
 </ul>
 
@@ -26,4 +26,5 @@ Sou estudante de ánalise e desenvolvimento de sistemas atualmente explorando o 
 ## Estatisticas do github:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanaul&show_icons=true&theme=transparent&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanaul&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact)
 
