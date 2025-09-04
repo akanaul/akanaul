@@ -14,7 +14,7 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
   <summary><h3>Minhas Hard Skills:</h3></summary>
 
 ### Linguagens  
-<div align="center">  
+<div align="left">  
 <a href="https://www.w3schools.com/css/"title="CSS3" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" title="Javascript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -23,7 +23,7 @@ Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o 
 </div>  
 
 ### Ferramentas  
-<div align="center">  
+<div align="left">  
 <a href="https://powerbi.microsoft.com/en-us/" title="Power BI"target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://github.com/" title="Git" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
