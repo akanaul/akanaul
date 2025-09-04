@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao meu github vai um café :coffee:? ou prefere chá :tea:? 
 
-<p style="text-align: justify"> Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o mercado e interessado em aprender stacks relacionadas a análise de dados e desenvolvimento front-end, mas sempre minha curiosidade pode me levar a explorar novos horizontes na área.</p>
+<p> Sou estudante de análise e desenvolvimento de sistemas atualmente explorando o mercado e interessado em aprender stacks relacionadas a análise de dados e desenvolvimento front-end, mas sempre minha curiosidade pode me levar a explorar novos horizontes na área.</p>
+
 ***
+
 <details open>
   <summary><h3>O quê estou estudando atualmente?</h3></summary>
     <li> Bancos de dados relacionais e SQL</li>
