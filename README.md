@@ -9,7 +9,7 @@
     <li> Bancos de dados relacionais e SQL</li>
     <li> Utilização de Python no ambiente de análise e ciência de dados</li>
     <li> Fundamentos do desenvolvimento front-end</li>
-    <li> Design profissional</li>
+    <li> Lógica de programação</li>
 </details>
 
 <details open>
