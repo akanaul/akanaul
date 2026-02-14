@@ -10,6 +10,7 @@
     <li> Utilização de Python no ambiente de análise e ciência de dados</li>
     <li> Fundamentos do desenvolvimento front-end</li>
     <li> Lógica de programação</li>
+    <li> Automações de formulários e planilhas</li>
 </details>
 
 <details open>
